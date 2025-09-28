@@ -7,22 +7,27 @@
       "is_adult": true
     },
     "lzzy": {
-      "api": "https://api.liangzizy.com/inc/apijson_vod.php",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "量子资源",
       "is_adult": true
     },
     "ffzy": {
-      "api": "https://ffzyapi.com/api.php/provide/vod",
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡资源",
       "is_adult": true
     },
     "ykzy": {
-      "api": "https://api.yongjiuzy.cc/provide/vod",
-      "name": "永久资源",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源",
       "is_adult": true
     },
+    "zy360": {
+    "api": "https://360zy.com/api.php/provide/vod",
+    "name": "360资源",
+    "is_adult": true
+    },
     "bdzy": {
-      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "百度资源",
       "is_adult": true
     }
